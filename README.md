@@ -24,7 +24,7 @@ Pythonで実行するプログラムです。最初にsetup.pyを実行して設
 ファイルをディレクトリと合わせて入力します
 
 ```
-cd github_now_publie
+cd github_now_public
 #はじめて使う場合や設定を変更したい場合
 pyhton setup.py.py
 #実行
