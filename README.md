@@ -14,7 +14,7 @@ Windowsで実行できます。
 
 Gitを使う場合は
 ```
-git clone https://github.com/hirokazuniimoto/github_now.git　
+git clone https://github.com/hirokazuniimoto/now_github_public.git
 ```
 それ以外の場合はGitHubからZIPファイルとしてダウンロードしてください。
 
