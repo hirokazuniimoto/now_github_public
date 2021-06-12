@@ -1,0 +1,62 @@
+1623459412008	geckodriver	INFO	Listening on 127.0.0.1:59853
+1623459415001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileg26J26"
+1623459415892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileg26J26\\search.json.mozlz4", (void 0)))
+1623459418961	Marionette	INFO	Listening on port 59863
+1623459419198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623459440951	Marionette	INFO	Stopped listening on port 59863
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623459881741	geckodriver	INFO	Listening on 127.0.0.1:60201
+1623459884812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileVW0Ru9"
+*** You are running in headless mode.
+1623459885615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileVW0Ru9\\search.json.mozlz4", (void 0)))
+1623459887639	Marionette	INFO	Listening on port 60210
+1623459888027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623460300530	geckodriver	INFO	Listening on 127.0.0.1:60546
+1623460303513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofilevxfsJq"
+*** You are running in headless mode.
+1623460304003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofilevxfsJq\\search.json.mozlz4", (void 0)))
+1623460305641	Marionette	INFO	Listening on port 60556
+1623460305680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623461456750	geckodriver	INFO	Listening on 127.0.0.1:60778
+1623461459777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofile9RHjMy"
+1623461460572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofile9RHjMy\\search.json.mozlz4", (void 0)))
+1623461463866	Marionette	INFO	Listening on port 60788
+1623461464008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623461519980	Marionette	INFO	Stopped listening on port 60788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623461547858	geckodriver	INFO	Listening on 127.0.0.1:60897
+1623461550885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileUftVfM"
+*** You are running in headless mode.
+1623461551248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileUftVfM\\search.json.mozlz4", (void 0)))
+1623461552629	Marionette	INFO	Listening on port 60906
+1623461552966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623461743223	geckodriver	INFO	Listening on 127.0.0.1:61135
+1623461746261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofile8V4tn6"
+*** You are running in headless mode.
+1623461746698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofile8V4tn6\\search.json.mozlz4", (void 0)))
+1623461747746	Marionette	INFO	Listening on port 61144
+1623461747791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623461814068	geckodriver	INFO	Listening on 127.0.0.1:61250
+1623461817112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileS9oq0C"
+*** You are running in headless mode.
+1623461817460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileS9oq0C\\search.json.mozlz4", (void 0)))
+1623461818631	Marionette	INFO	Listening on port 61259
+1623461818654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623465655484	geckodriver	INFO	Listening on 127.0.0.1:57609
+1623465658489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileAVgiOe"
+*** You are running in headless mode.
+1623465659135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazum\\AppData\\Local\\Temp\\rust_mozprofileAVgiOe\\search.json.mozlz4", (void 0)))
+1623465660668	Marionette	INFO	Listening on port 57618
+1623465661207	Marionette	WARN	TLS certificate errors will be ignored for this session
