@@ -2,8 +2,7 @@
 
 # DEMO
 
-![スクリーンショット (76)](![スクリーンショット (77)](https://user-images.githubusercontent.com/55869749/121765261-9b815c80-cb84-11eb-8f68-ed4a3af64e76.png)
-)
+![スクリーンショット (77)](https://user-images.githubusercontent.com/55869749/121765261-9b815c80-cb84-11eb-8f68-ed4a3af64e76.png)
 
 # Features
 
