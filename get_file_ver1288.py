@@ -61,8 +61,6 @@ options.add_argument('--proxy-server="direct://"') # Proxy経由ではなく直�
 options.add_argument('--proxy-bypass-list=*')      # すべてのホスト名
 options.add_argument('--start-maximized')
 
-#Chromeを指定
-#executable_path="C:/Users/kazum/Desktop/chromedriver_win32 (1)/chromedriver.exe"
 driver_flag = 1
 
 try:
@@ -198,7 +196,7 @@ def select_and_get_file():
                 for i in range(len(flag_3)):
                     #指定したURLに遷移する
                     driver.get("https://github.com/" + rep_name +"/blob/" + branch + "/" + flag_3[i])
-                    # 3秒待ちます
+                    # 3秒待ち
                     #time.sleep(3)
                     for t in tqdm(range(10)):
                         time.sleep(0.3)
