@@ -7,6 +7,7 @@
 # 2021/06/11
 # author
 # hirokazu niimoto
+# github change
 
 #seleniumは同じディレクトリから（ログを非表示にするため)
 #参考：https://yuki.world/windows-selenium-headlesschrome-log-hide/
